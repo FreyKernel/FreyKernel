@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm exploring the depths of **Linux kernel development**.  <br>From writing small modules to understanding memory, processes, and drivers — I'm learning step by step.<br><br>🔧 What I Do<br>- Experiment with kernel modules<br>- Study OS concepts like processes, threads, and synchronization<br>- Explore low-level programming in C<br>- Share notes and small projects as I learn<br>
+Hi, I'm exploring the depths of **Linux kernel development**.  <br>From writing small modules to understanding memory, processes, and drivers — I'm learning step by step.<br><br>🔧 What I Do<br>- Experiment with kernel modules<br>- Study OS concepts like processes, threads, and synchronization<br>- Explore low-level programming in C<br>- Share notes and small projects as I learn<br>
 
 ---
 
